@@ -1,0 +1,18 @@
+main: main.cpp 
+    g++ main.cpp -o main
+main2: main2.cpp
+    g++ main2.cpp -o main2
+inputoutput: inputoutput.cpp
+    g++ inputoutput.cpp -o inputoutput
+operator: operator.cpp
+    g++ operator.cpp -o operator
+latihan: latihan.cpp
+    g++ latihan.cpp -o latihan
+latihan2: latihan2.cpp
+    g++ latihan2.cpp -o latihan2
+2312000059: 2312000059.cpp
+    g++ 2312000059.cpp -o 2312000059
+function: function.cpp
+    g++ function.cpp -o function
+tugas: tugas.cpp
+    g++ tugas.cpp -o tugas
