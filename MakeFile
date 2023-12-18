@@ -16,3 +16,9 @@ function: function.cpp
     g++ function.cpp -o function
 tugas: tugas.cpp
     g++ tugas.cpp -o tugas
+array: array.cpp
+    g++ array.cpp -o array
+array2: array2.cpp
+    g++ array2.cpp -o array2
+array4: array4.cpp
+    g++ array4.cpp -o array4
